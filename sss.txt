@@ -1,0 +1,21 @@
+znaci kada ubacis kod koji si radiou ovaj ddoctors folder, 
+git ce ti prepoznati izmene, kako bi dao meni izmene moras da ides desni klikik
+
+kada saljes neki kod meni ides ovako: 
+
+1.commit i tu ubacis description znaci sta si radio 
+2. zatim ides push i on baci to na server 
+
+
+pre nego sto budes radio svaki put uzmes prvo povuces izmene sa opcijom pull
+
+znaci pull povuces , push i commit da bacis na server.
+
+
+sada mi je bitno kako bi ja uzeo da radim da te izmene koji si radio push na server
+
+ok?kk
+
+ae javi kad pushnes 
+
+poyzz
